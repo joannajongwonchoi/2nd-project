@@ -1,7 +1,7 @@
 ## 2022.04.11. ~ 2022.05.06. 까지 진행된 프로젝트 입니다.
 ### <*주제*>
 스마트팩토리를 위한 원자재 예측과 자동발주 시스템
-![main](https://user-images.githubusercontent.com/102858692/161479600-5540a50a-92e9-495d-8e7b-76c44f60be49.png)
+![image](https://user-images.githubusercontent.com/95695211/175246783-e249203e-741d-4f4f-90a1-fa111bd28633.png)
 
 ### <*유튜브*>
 CAKD 5기 2차 프로젝트 데이터 어셈블팀 
